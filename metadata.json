@@ -1,0 +1,6 @@
+{
+  "name": "Google Always Free LMS AI Builder",
+  "description": "AI-powered LMS studio utilizing Google's Always Free tier: SCORM/cmi5 package generator, structured AI role-play tutor, BigQuery xAPI telemetry pipeline, and predictive remediation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
